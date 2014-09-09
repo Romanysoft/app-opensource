@@ -1,3 +1,0 @@
-platform :osx, '10.7'
-
-pod 'OgreKit', :git => 'https://github.com/TryEditor/OgreKit.git', :branch => 'TryEditor-mod'

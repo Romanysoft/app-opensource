@@ -1,7 +1,0 @@
-//
-// Prefix header for all source files of the 'TryEditor' target in the 'TryEditor' project
-//
-
-#ifdef __OBJC__
-    @import Cocoa;
-#endif
