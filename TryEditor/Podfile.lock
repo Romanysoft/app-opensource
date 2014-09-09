@@ -1,0 +1,15 @@
+PODS:
+  - OgreKit (2.1.7.1)
+
+DEPENDENCIES:
+  - OgreKit (from `https://github.com/TryEditor/OgreKit.git`, branch `TryEditor-mod`)
+
+EXTERNAL SOURCES:
+  OgreKit:
+    :branch: TryEditor-mod
+    :git: https://github.com/TryEditor/OgreKit.git
+
+SPEC CHECKSUMS:
+  OgreKit: 4c23914bc813e417227a3922b25fc0bc21f91919
+
+COCOAPODS: 0.33.1
